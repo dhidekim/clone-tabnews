@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto referente ao curso.dev
+Projeto para acompanhamento do curso.dev de Filipe Deschamps.
